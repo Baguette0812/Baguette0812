@@ -18,7 +18,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Bague
 - SQL
 - Python
 - Tableau
-- Power BI
 - Excel
 
 ### 👋🏻 Connect with Me
