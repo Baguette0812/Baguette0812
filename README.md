@@ -6,7 +6,7 @@ Hello, I'm Edmon. Data Analyst with expertise in data analysis and reporting, qu
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Power BI.
+- Developing dashboards on Tableau.
 - Data analysis and reporting using Excel.
 
 ### 📚 Projects
