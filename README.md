@@ -15,8 +15,11 @@ Welcome to my portfolio, where I showcase my [projects]().
 
 ### 🛠️ Tools
 
-- Language: SQL, Python
-- Visualization: Tableau, Power BI
+- SQL
+- Python
+- Tableau
+- Power BI
+- Excel
 
 ### 👋🏻 Connect with Me
 
