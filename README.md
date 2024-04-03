@@ -6,7 +6,7 @@ Hello, I'm Edmon. Data Analyst with expertise in data analysis and reporting, qu
 
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau.
+- Developing dashboards on Tableau and Power BI.
 - Data analysis and reporting using Excel.
 
 ### 📚 Projects
@@ -18,6 +18,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Bague
 - SQL
 - Python
 - Tableau
+- Power BI
 - Excel
 
 ### 👋🏻 Connect with Me
